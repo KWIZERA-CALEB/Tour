@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components/molecules/Navbar'
 import PlaceCard from '../components/molecules/PlaceCard'
-import Button from '../components/atoms/Button'
+
 
 const Gallery = () => {
   return (
