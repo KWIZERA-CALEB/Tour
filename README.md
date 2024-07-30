@@ -1,4 +1,7 @@
-## Study Mate
-A study site built in Next JS, MySQL and Prisma.
+## Tour
 
-Built by KWIZERA Caleb
+#Pages 
+- Home
+- Contact us
+- Places
+- Gallery
