@@ -16,7 +16,18 @@ const config: Config = {
       
       xl: '1280px',
     },
-    extend: {},
+    extend: {
+      colors: {
+        primary: '#fff',
+        secondary: '#379777',
+        danger: '#F5004F',
+        customGray: {
+          100: '#31363F',
+          200: '#222831',
+          300: '#0F0F0F'
+        }
+      }
+    },
   },
   plugins: [],
 };

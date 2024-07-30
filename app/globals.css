@@ -6,3 +6,27 @@
     box-shadow: 0 !important;
 }
 
+/* Custom css classes */
+
+@font-face {
+    font-family: logo;
+    src: url(../public/fonts/mons/Montserrat-VariableFont_wght.ttf);
+}
+
+.logo {
+    font-family: logo;
+}
+
+@font-face {
+    font-family: custom;
+    src: url(../public/fonts/poppins/Poppins-Medium.ttf);
+}
+
+.custom {
+    font-family: custom;
+}
+
+.image:hover{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
